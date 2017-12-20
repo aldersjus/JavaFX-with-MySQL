@@ -1,0 +1,15 @@
+.root{
+-fx-background: rgb(19,129,230);
+}
+
+.button{
+-fx-text-fill: white;
+-fx-border-color: white;
+-fx-background-color: rgb(19,129,230);
+}
+
+.label{
+-fx-font: bold italic 10pt "Arial";
+-fx-text-fill: white;
+}
+
